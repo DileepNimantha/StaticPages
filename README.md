@@ -1,0 +1,2 @@
+# StaticPages
+spring_static_pages_example
